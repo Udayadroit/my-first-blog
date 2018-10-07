@@ -30,6 +30,7 @@ urlpatterns = [
     url(r'^portal/', include('portal.urls')),
     url(r'^accounts/', include('accounts.urls')),
     url(r'^api/', include('api.urls')),
+    url(r'^feedback/',include('feedback.urls')),
 ]
 
 

@@ -43,7 +43,7 @@ INSTALLED_APPS = [
     'accounts',
     'portal',
     'api',
-    'feedback',
+    'feedback'
 
 ]
 
